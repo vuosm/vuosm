@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🇩🇪  15 y/o developer from Germany<br>💻 Python & C++<br>🎮 Gamer and Game Developer<br>🕹️ Roblox Game Developer<br>🚀 Passionate about coding, creating games, and learning new technologies.
+👋 About Me<br><br>🇩🇪  15 y/o developer from Germany<br>💻 Python & C++<br>🚀 Passionate about coding, creating games, and learning new technologies.
 
 
 # 💻 Tech Stack:
